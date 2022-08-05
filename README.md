@@ -7,84 +7,88 @@ The purpose of this project is
 ### 2.1 RandomOverSampler Model
 
 <p align="center">
-  <img  src="Resources/1.1.png">
+  <img  src="Resources/1.1.png" width="350" height="100">
 </p>
 <p align="center">
-  <img  src="Resources/1.2.png" width="400" height="150">
+  <img  src="Resources/1.2.png" width="350" height="100">
 </p>
 <p align="center">
-  <img  src="Resources/1.3.png" >
+  <img  src="Resources/1.3.png" width="700" >
 </p>
 
 
 ### 2.2 SMOTE Model
 
 <p align="center">
-  <img  src="Resources/2.1.png">
+  <img  src="Resources/2.1.png" width="350" height="100">
 </p>
 
 <p align="center">
-  <img  src="Resources/2.2.png">
+  <img  src="Resources/2.2.png" width="350" height="100" >
 </p>
 
 <p align="center">
-  <img  src="Resources/2.3.png">
+  <img  src="Resources/2.3.png" width="700" >
 </p>
 
 ### 2.3 ClusterCentroids Model
 
 <p align="center">
-  <img  src="Resources/3.1.png">
+  <img  src="Resources/3.1.png" width="350" height="100">
 </p>
 
 <p align="center">
-  <img  src="Resources/3.2.png">
+  <img  src="Resources/3.2.png" width="350" height="100" >
 </p>
 
 <p align="center">
-  <img  src="Resources/3.3.png">
+  <img  src="Resources/3.3.png" width="700" >
 </p>
+
 ### 2.4 SMOTEENN Model
 
 <p align="center">
-  <img  src="Resources/4.1.png">
+  <img  src="Resources/4.1.png" width="350" height="100">
 </p>
 
 <p align="center">
-  <img  src="Resources/4.2.png">
+  <img  src="Resources/4.2.png" width="350" height="100" >
 </p>
 
 <p align="center">
-  <img  src="Resources/4.3.png">
+  <img  src="Resources/4.3.png" width="700" >
 </p>
+
 
 ### 2.5 SBalancedRandomForestClassifier  Model
 
 <p align="center">
-  <img  src="Resources/5.1.png">
+  <img  src="Resources/5.1.png" width="350" height="100">
 </p>
 
 <p align="center">
-  <img  src="Resources/5.2.png">
+  <img  src="Resources/5.2.png" width="350" height="100" >
 </p>
 
 <p align="center">
-  <img  src="Resources/5.3.png">
+  <img  src="Resources/5.3.png" width="700" >
 </p>
+
 
 ### 2.6 EasyEnsembleClassifier Model
 
 <p align="center">
-  <img  src="Resources/6.1.png">
+  <img  src="Resources/6.1.png" width="350" height="100">
 </p>
 
 <p align="center">
-  <img  src="Resources/6.2.png">
+  <img  src="Resources/6.2.png" width="350" height="100" >
 </p>
 
 <p align="center">
-  <img  src="Resources/6.3.png">
+  <img  src="Resources/6.3.png" width="700" >
 </p>
+
 
 ## 3. Sumary
 
