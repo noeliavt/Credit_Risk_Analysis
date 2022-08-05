@@ -10,10 +10,10 @@ The purpose of this project is
   <img  src="Resources/1.1.png">
 </p>
 <p align="center">
-  <img  src="Resources/1.2.png">
+  <img  src="Resources/1.2.png" width="400" height="150">
 </p>
 <p align="center">
-  <img  src="Resources/1.3.png">
+  <img  src="Resources/1.3.png" width="400">
 </p>
 
 
