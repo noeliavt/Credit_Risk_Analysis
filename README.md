@@ -1,6 +1,7 @@
 # Credit_Risk_Analysis
 ## 1. Overview of Project
-The purpose of this project is to build and evaluate several machine learning models to predict credit risk.
+
+The purpose of this project is to build and evaluate several machine learning models to predict credit risk using Machine learning using statistical algorithms to perform tasks such as learning from data patterns and making predictions
 
 
 ## 2. Learning Model Results
